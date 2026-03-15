@@ -5,4 +5,5 @@
 
 
 ## Light
-The light isn't just for lightening but to give the sense of safely. Players will spawn by a light, to slowly let them realize what environment my map is going to be. The light hallway can also fit for drawing player's attention, when escaping or exploring.
+### The light isn't just for lightening but to give the sense of safely. Players will spawn by a light, to slowly let them realize what environment my map is going to be. The light hallway can also fit for drawing player's attention, when escaping or exploring.
+https://github.com/WindyVG-Starter/Future_Map/blob/main/Light.png
